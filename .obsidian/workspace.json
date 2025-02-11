@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "760a888f4ee64dd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f75cea007c692ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39b80a88afd91f1f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Roadmap.canvas",
+                "viewState": {
+                  "x": 2067.782304563789,
+                  "y": 238.45576822058055,
+                  "zoom": -0.2510077282050935
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20e97fbf5f6874bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aa89cab61eb9a20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a354f65269c6ef0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "89bc5f7714b44b58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "414686ab58c3966c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6455b0330889793d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c5e0e05517d1673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32a7981c25a4a001",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roadmap.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Roadmap"
+            }
+          },
+          {
+            "id": "ee1dabf52e311093",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roadmap.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Roadmap"
+            }
+          },
+          {
+            "id": "596a38af4532de71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e0ad414798629893",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roadmap.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "39b80a88afd91f1f",
+  "lastOpenFiles": [
+    "Progression/Items.md",
+    "Progression/Equipamentos.md",
+    "Progression/Crafting.md",
+    "Progression/Atributos.md",
+    "Economy/VoxCoin.md",
+    "Economy/Venda de Items.md",
+    "Economy/Quebra de Items.md",
+    "Economy/Leilão.md",
+    "Economy/Autoplay.md",
+    "Economy/Banco.md",
+    "Economy/Economy.md",
+    "PvE/Bosses Blessing.md",
+    "Progression/Skills.md",
+    "Game Pilars.md",
+    "Subscrição.md",
+    "Tasks.canvas",
+    "RolePlay/Vilarejos.md",
+    "Roadmap.canvas",
+    "Data Gathering.md",
+    "Task Healer.md",
+    "Roteiro.md",
+    "Proposta.md",
+    "Progression/Lucky Button.md",
+    "RolePlay/Weather.md",
+    "Progression/Montarias.md",
+    "RolePlay/Morte.md",
+    "Pasted image 20241230122916.png",
+    "PvE/Monstros.md",
+    "PvP/Party system.md",
+    "Pasted image 20240926205527.png",
+    "Pasted image 20240926205016.png",
+    "Untitled",
+    "Canvas.canvas",
+    "PvPvE",
+    "Progression",
+    "Economy",
+    "RolePlay",
+    "PvE",
+    "PvP",
+    "Progressão"
+  ]
+}

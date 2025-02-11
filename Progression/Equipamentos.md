@@ -1,0 +1,3 @@
+Existem armas e equipamentos no jogo. Eles podem ser conseguidos através de [[Monstros|monstros]] comuns, que dropam items comuns (e poucos dropam items raros) e bosses que mais comumente dropam items melhores. Ainda, podem ser conseguidos por trocas com outros jogadores e através de fabricação por profissões. Equipamentos consistem em: Capacete, Armadura, Calça, Bota, Espada, Escudo, Cajado, Arco.
+
+Refere-se à [[Progression|progressão]].

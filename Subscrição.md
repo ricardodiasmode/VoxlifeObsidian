@@ -1,0 +1,3 @@
+O modelo de negócio do jogo é por subscrição. O jogador pagará R$ 30,00 reais ou USD 10,00 dólares para ter acesso a todas as regiões do [[Mapa]], por um mês. A forma como a subscrição é feita é através de SVoxCoins (items da steam que podem ser trocados e vendidos). É possível trocar [[VoxCoin|VoxCoins]] por SVoxCoins através de um mercado dentro do jogo. Para comprar SVoxCoins dentro do jogo, 1 dólar equivale a 1 SVoxCoin.
+
+Esse modelo funciona pois o único método de conseguir SVoxcoins é através da compra pela empresa, e eles são destruídos ao serem usados para subscrever.

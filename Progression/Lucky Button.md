@@ -1,0 +1,5 @@
+Para aumentar a sorte, existe um botão que você joga uma moeda. Tem 50% de chance de, no próximo ataque que vc der, seu dano vai ser o dobro. Ou 50% de chance de, o proximo ataque que vc levar será o dobro. O multiplicador não é acumulativo e a moeda só pode ser lançada se ja tiver sido usado o multiplicador.
+
+Além do botão de roll, existe um autoroll. Vão haver momentos em que você não quer ficar apertando o botão de lucky, e sim que o botão seja pressionado automaticamente sempre que possível. Nesse caso, se você pressionar e segurar o botão de roll, então o autoroll é ativado (rola o roll sempre que possível). Para desativar o autoroll basta apertar o botão de roll novamente.
+
+Quando for levar o dobro de dano, deve aparecer um escudo quebrado na UI. Quando for dar o dobro de dano, deve aparecer uma espada com seta para cima na UI. Quando não estiver com nenhum efeito, deve aparecer o dado.

@@ -1,0 +1,3 @@
+O jogador pode construir uma casa, que requer determinados [[Items|recursos]]. O jogador perde sua casa caso fique inativo por mais de sete dias, deixando o terreno vazio. Quando não há dono em uma casa, essa se torna propriedade do Rei, que pode dar ou vender ela para outro jogador. Cada casa tem um preço pré-definido. A casa dá ao jogador a possibilidade de guardar seus itens dentro de seu baú, além de comprar móveis para enfeitá-la. Um jogador pode vender ou transferir a casa para o outro. Cada tipo de casa terá sua função e tem estilo previamente definido, servindo para o sistema de [[Crafting|profissões]]. As casas podem ser destruídas por integrantes de outros reinos, ou de nenhum reino. Essas casas podem ser destruídas e reparadas.
+
+Refere-se à [[RolePlay]];

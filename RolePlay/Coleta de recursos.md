@@ -1,0 +1,3 @@
+Recursos são objetos no chão que podem ser pegos para se tornar [[Items]]. Há recursos espalhados no mapa, e cada recurso é especial de uma região. Esses recursos se baseiam em matéria prima para items construtíveis. Recursos melhores requerem [[Equipamentos|ferramentas]] melhores. Recursos ligam outline ao olhar para eles. Recursos não se esgotam, mas existe uma barra que a cada hit ela diminui mais. Quanto menor a barra, menos recursos por hit. Demora um tempo até a barra voltar.
+
+Refere-se à [[RolePlay]];

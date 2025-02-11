@@ -1,0 +1,1 @@
+É necessário que, ao jogar, o jogador nos envie dados sobre seu jogo, como o tempo jogado, tempo passado no menu, tempo que ficou na localização do mapa, etc.

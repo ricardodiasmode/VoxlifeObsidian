@@ -1,0 +1,3 @@
+Um monstro é spawnado a cada X tempo numa região delimitada (um ponto e poucos metros ao redor dele). Assim como tibia, se o jogador ir muito a fundo em um corredor onde spawna muitos monstros, para voltar depois de X tempo ele encontrará os monstros ali novamente. Isso faz com que o jogador precise se movimentar estrategicamente. Os monstros tem spawns fixos. Cada região tem seus monstros.
+
+Refere-se à [[PvE|PvE]].

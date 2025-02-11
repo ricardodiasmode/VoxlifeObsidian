@@ -1,0 +1,3 @@
+O jogador pode coletar [[Coleta de recursos|recursos]] automaticamente. Para isso, basta selecionar o percurso a ser feito no [[Mapa]], clicando nos recursos e nos caminhos que quer fazer. A coleta de recursos, no entanto, é mais demorada quando feita automaticamente.
+
+Isso influencia diretamente no valor do [[VoxCoin]], dado que recursos podem ser vendidos, e possivelmente será a maior forma de conseguir VoxCoins.

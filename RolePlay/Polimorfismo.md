@@ -1,0 +1,3 @@
+Ao derrotar um Titan ou um Deus ([[Monstros]]), o jogador consegue todas as suas [[Skills]] e suas características. Ou seja, se o Deus voa, o personagem voa ao derrotá-lo. Se o Deus tem uma Skill de área, o personagem também terá. Essa mutação dura até o personagem morrer, matar outro Deus ou Titan (trocando de mutação), se lavando ou exaurindo o poder do Deus ou Titan. Para se lavar basta ir nos poços dentro das shrines dos vilarejos ao redor do mapa ou no reino e se lavar em shrines, removendo a mutação. Para exaurir o poder, a cada segundo é removido um pouco do poder e ao atacar ou usar uma skill o poder é exaurido pouco a pouco.
+
+Refere-se à [[RolePlay]];
