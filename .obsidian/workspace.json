@@ -11,17 +11,14 @@
             "id": "39b80a88afd91f1f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Roadmap.canvas",
-                "viewState": {
-                  "x": 2067.782304563789,
-                  "y": 238.45576822058055,
-                  "zoom": -0.2510077282050935
-                }
+                "file": "Task Healer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Roadmap"
+              "icon": "lucide-file",
+              "title": "Task Healer"
             }
           }
         ]
@@ -170,8 +167,20 @@
   "lastOpenFiles": [
     "Progression/Items.md",
     "Progression/Equipamentos.md",
-    "Progression/Crafting.md",
+    "Task Healer.md",
+    "Roadmap.canvas",
     "Progression/Atributos.md",
+    "Game Pilars.md",
+    "Tasks.canvas",
+    "PvE/Dungeons.md",
+    "Progression/Montarias.md",
+    "RolePlay/Movimentação.md",
+    "PvE/Mini chefe da área.md",
+    "Subscrição.md",
+    "Roteiro.md",
+    "PvE/Bosses.md",
+    "PvE/Bosses Blessing.md",
+    "Progression/Crafting.md",
     "Economy/VoxCoin.md",
     "Economy/Venda de Items.md",
     "Economy/Quebra de Items.md",
@@ -179,24 +188,11 @@
     "Economy/Autoplay.md",
     "Economy/Banco.md",
     "Economy/Economy.md",
-    "PvE/Bosses Blessing.md",
     "Progression/Skills.md",
-    "Game Pilars.md",
-    "Subscrição.md",
-    "Tasks.canvas",
     "RolePlay/Vilarejos.md",
-    "Roadmap.canvas",
     "Data Gathering.md",
-    "Task Healer.md",
-    "Roteiro.md",
     "Proposta.md",
-    "Progression/Lucky Button.md",
-    "RolePlay/Weather.md",
-    "Progression/Montarias.md",
-    "RolePlay/Morte.md",
     "Pasted image 20241230122916.png",
-    "PvE/Monstros.md",
-    "PvP/Party system.md",
     "Pasted image 20240926205527.png",
     "Pasted image 20240926205016.png",
     "Untitled",

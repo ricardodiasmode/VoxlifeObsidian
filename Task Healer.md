@@ -1,3 +1,7 @@
-É preciso ter armas de cura: dá pouco dano, usa mana para bater mas também cura o aliado.
-
-Upar o atributo de healing aumenta mana. É possível upar o atributo de healing apenas usando magias de cura e a arma de cura.
+- [x] Colocar atributo de healing na UI.
+- [ ] É preciso ter armas de cura: dá pouco dano, dá life steal e usa mana para bater.
+- [ ] Armas de cura se pegar em aliado curam.
+- [x] Upar o atributo de healing aumenta um pouco de vida, e um pouco de mana. 
+- [x] Upar o atributo de healing dá bonus de regeneração de mana e vida.
+- [ ] É possível upar o atributo de healing apenas usando magias de cura e a arma de cura.
+- [ ] Missão de ao matar X monstros da noite o humilde seguidor do Hyperion que fica na área da Nyx/Hemera te recompensa com a magia de cura Hyperion's Radiance.
