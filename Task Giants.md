@@ -1,0 +1,1 @@
+Alguns monstros podem ser escalados, como os Cyclopes, Hecatoncheires e Argus (é o boss da região). Para matá-los, deve ser atingido multiplas vezes em um local especifico. Cada tipo de monstro (cyclope, hecatoncheires, argus) tem um local específico que deve ser atingido.
