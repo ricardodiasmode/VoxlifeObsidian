@@ -3,7 +3,7 @@ Items podem ser dropados pelos inimigos ou feitos, através do sistema de profis
 1. Wooden Sword: Sword inicial;
 2. Wooden Bow: Bow inicial;
 3. Wooden Staff: Staff inicial;
-4. Goblin Dagger: Arma melee dropada por goblins e adquirida num baú;
+4. Stone Dagger: Arma melee dropada por Oreads e adquirida num baú;
 5. Red Mushroom: Consumível dropado por Dryads e spawnado automaticamente no chão da floresta, que recupera vida;
 6. Root Staff: Staff dropada pelo treant;
 7. Dryad Scroll: Scroll que dá a skill de sumonar Dryad ao ser usado;
@@ -17,10 +17,10 @@ Items podem ser dropados pelos inimigos ou feitos, através do sistema de profis
 15.  Water Armor: Armor dropado pela Naiad;
 16.  Water Pants: Pants dropado pela Naiad;
 17.  Water Boots: Boots dropado pela Naiad;
-18.  Goblin Head: Helmet dropado pelo Goblin;
-19.  Goblin Armor: Armor dropado pelo Goblin;
-20.  Goblin Pants: Pants dropado pelo Goblin;
-21.  Goblin Sandals: Boots dropado pelo Goblin;
+18.  Oread Hair: Helmet dropado pela Oread;
+19.  Stone Armor: Armor dropado pela Oread;
+20.  Stone Pants: Pants dropado pela Oread;
+21.  Stone Boots: Boots dropado pela Oread;
 22.  Slime Jar: Consumível dropado pelo Slime, que recupera mana;
 23.  Keres Feather: Recurso dropado pela Keres utilizado em missões;
 24.  Nephele Feather: Recurso dropado pela Nephele utilizado em missões;
@@ -53,8 +53,16 @@ Items podem ser dropados pelos inimigos ou feitos, através do sistema de profis
 51. God Bow: Item de development test;
 52. Leaf: Recurso dropado pela Dryad;
 53. Water Essence: Recurso dropado pela Naiad;
-54. Ripped Cloth: Recurso dropado pelo Goblin;
+54. Ripped Cloth: Recurso dropado pela Empusa;
 55. Cloth: Recurso dropado pela Hesperide;
+56. Oread Stone: Recurso dropado pela Oread;
+57. Wooden Disk: Disk inicial;
+58. Empusa Hair: Helmet dropado pela Empusa;
+59. Empusa Shirt: Armor dropado pela Empusa;
+60. Empusa Pants: Pants dropado pela Empusa;
+61. Empusa Foot: Boots dropado pela Empusa;
+62. Empusa Disk: Disk dropado pela Empusa;
+63. Empusa Hair Strand: Recurso dropado pela Empusa;
 
 # Items a serem implementados:
 

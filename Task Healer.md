@@ -4,4 +4,5 @@
 - [x] Upar o atributo de healing aumenta um pouco de vida, e um pouco de mana. 
 - [x] Upar o atributo de healing dá bonus de regeneração de mana e vida.
 - [x] É possível upar o atributo de healing apenas usando magias de cura e a arma de cura.
+- [x] Empusa Set
 - [ ] Missão de ao matar X monstros da noite o humilde seguidor do Hyperion que fica na área da Nyx/Hemera te recompensa com a magia de cura Hyperion's Radiance.

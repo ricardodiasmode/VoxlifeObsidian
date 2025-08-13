@@ -11,14 +11,17 @@
             "id": "b4154924d1849de0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Progression/Quests.md",
-                "mode": "source",
-                "source": false
+                "file": "Tasks.canvas",
+                "viewState": {
+                  "x": -100,
+                  "y": 920,
+                  "zoom": -2.7983661388303496
+                }
               },
-              "icon": "lucide-file",
-              "title": "Quests"
+              "icon": "lucide-layout-dashboard",
+              "title": "Tasks"
             }
           }
         ]
@@ -165,18 +168,21 @@
   },
   "active": "b4154924d1849de0",
   "lastOpenFiles": [
+    "Task Healer.md",
+    "Progression/Items.md",
+    "Progression/Equipamentos.md",
+    "Progression/Crafting.md",
+    "Tasks.canvas",
+    "Roadmap.canvas",
     "Progression/Quests.md",
     "RolePlay/Aposta de morte.md",
     "PvP/Morte por recompensa.md",
     "RolePlay/Reino.md",
     "PvE/Raid.md",
-    "Roadmap.canvas",
     "PvE/PvE.md",
     "PvP/Party system.md",
     "PvP/PvP.md",
-    "Tasks.canvas",
     "PvE/Monstros.md",
-    "Task Healer.md",
     "Visual.md",
     "Task Giants.md",
     "Subscrição.md",
@@ -184,15 +190,11 @@
     "Proposta.md",
     "Data Gathering.md",
     "Game Pilars.md",
-    "Progression/Crafting.md",
     "PvE/Monster Spawn.md",
     "PvE/Bosses.md",
     "PvE/Dungeons.md",
-    "Progression/Items.md",
-    "Progression/Equipamentos.md",
     "Progression/Atributos.md",
     "Progression/Montarias.md",
-    "RolePlay/Movimentação.md",
     "Pasted image 20241230122916.png",
     "Pasted image 20240926205527.png",
     "Pasted image 20240926205016.png",
