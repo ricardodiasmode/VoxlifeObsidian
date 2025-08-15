@@ -11,17 +11,14 @@
             "id": "b4154924d1849de0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tasks.canvas",
-                "viewState": {
-                  "x": -100,
-                  "y": 920,
-                  "zoom": -2.7983661388303496
-                }
+                "file": "PvE/Mini chefe da área.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Tasks"
+              "icon": "lucide-file",
+              "title": "Mini chefe da área"
             }
           }
         ]
@@ -168,11 +165,12 @@
   },
   "active": "b4154924d1849de0",
   "lastOpenFiles": [
+    "Progression/Skills.md",
+    "Tasks.canvas",
     "Task Healer.md",
     "Progression/Items.md",
     "Progression/Equipamentos.md",
     "Progression/Crafting.md",
-    "Tasks.canvas",
     "Roadmap.canvas",
     "Progression/Quests.md",
     "RolePlay/Aposta de morte.md",
@@ -194,7 +192,6 @@
     "PvE/Bosses.md",
     "PvE/Dungeons.md",
     "Progression/Atributos.md",
-    "Progression/Montarias.md",
     "Pasted image 20241230122916.png",
     "Pasted image 20240926205527.png",
     "Pasted image 20240926205016.png",
