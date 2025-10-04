@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PvE/Mini chefe da área.md",
+                "file": "Progression/Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mini chefe da área"
+              "title": "Skills"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,9 +166,15 @@
   },
   "active": "b4154924d1849de0",
   "lastOpenFiles": [
-    "Progression/Skills.md",
+    "RolePlay/Morte.md",
+    "Economy/Autoplay.md",
+    "Economy/Banco.md",
+    "Economy/Economy.md",
+    "Economy/VoxCoin.md",
     "Tasks.canvas",
     "Task Healer.md",
+    "PvE/Mini chefe da área.md",
+    "Progression/Skills.md",
     "Progression/Items.md",
     "Progression/Equipamentos.md",
     "Progression/Crafting.md",
@@ -187,11 +194,6 @@
     "Roteiro.md",
     "Proposta.md",
     "Data Gathering.md",
-    "Game Pilars.md",
-    "PvE/Monster Spawn.md",
-    "PvE/Bosses.md",
-    "PvE/Dungeons.md",
-    "Progression/Atributos.md",
     "Pasted image 20241230122916.png",
     "Pasted image 20240926205527.png",
     "Pasted image 20240926205016.png",

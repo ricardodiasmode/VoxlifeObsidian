@@ -10,6 +10,6 @@ O jogador começa sem skills, e adquire cada skill com missões diferentes. Essa
 8. Rapid strike: Aumenta a velocidade de qualquer ataque básico por alguns segundos.
 9. Body Replacement: O jogador consegue selecionar um objeto ao redor para colocar em seu lugar e após a seleção, decide onde vai teleportar. Como o jutso de Body Replacement de naruto.
 10. Earthquake Volley: Remove pedaços do chão em forma de bola e arremessa no alvo.
-11. Dodge: Quando o personagem está com um cajado ou disk equipado, ao esquivar ele teleporta para a direção pressionada. Se for um arco, ele rola e a espada dasha. Tem uma hotkey especial para dodge.
+11. Dodge: Quando o personagem está com um cajado ou disk equipado, ao esquivar ele teleporta para a direção pressionada. Se for um arco, ele rola e a espada dasha. Tem uma hotkey especial para dodge. Ref para dodge de teleport: https://www.youtube.com/shorts/XsbvWYEx-oI
 
 Refere-se à [[Progression|progressão]].
